@@ -16,3 +16,11 @@ logical change?
 
 You can check the difference between the most recent commit and what
 is currently staged to see if the change is logical.
+
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+When you want to create different versions or slight adjustments to
+certain parts in the main branch. They help by being able to go on
+using code for each branch.
