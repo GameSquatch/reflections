@@ -9,3 +9,10 @@ repository? What value do you think it offers?
 
 It's different from both, because it's a place in between them, where
 you can decide what to commit from the working directory.
+
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+You can check the difference between the most recent commit and what
+is currently staged to see if the change is logical.
