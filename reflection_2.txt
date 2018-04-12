@@ -24,3 +24,9 @@ history organized? How would branches help?
 When you want to create different versions or slight adjustments to
 certain parts in the main branch. They help by being able to go on
 using code for each branch.
+
+
+How do the diagrams help you visualize the branch structure?
+
+By showing how each commit reacts with its parent commit. It
+also shows how branching is a great way to make changes.
