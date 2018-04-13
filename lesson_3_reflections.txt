@@ -10,3 +10,14 @@ Git automatically stay up-to-date with your remote repository?
 
 Because you could be at a different point, locally, on your project
 than the one on the remote repository.
+
+
+Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+Forks are a GitHub exclusive operation to essential clone someone
+elses branch to your own remote repository, allowing the orginal
+author to maintain credit. Clones are "copies" of repositories,
+whether they are local or remote. Branches are variations of files
+from the orginal that have no effect on the orginal. You can chose
+to merge the branch with the original later. Each has there own uses.
