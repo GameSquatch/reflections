@@ -37,3 +37,11 @@ it in the diagram the way we do?
 
 The result is a new commit with ALL the shared lines, none of the removed
 lines, and all of the added lines. Because, that's accurate.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
++ It won't merge code that won't work.
++ You can see how the conflicts are working in different branches
+- You have to fix it
