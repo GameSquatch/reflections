@@ -30,3 +30,10 @@ How do the diagrams help you visualize the branch structure?
 
 By showing how each commit reacts with its parent commit. It
 also shows how branching is a great way to make changes.
+
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+The result is a new commit with ALL the shared lines, none of the removed
+lines, and all of the added lines. Because, that's accurate.
