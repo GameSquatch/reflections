@@ -21,3 +21,11 @@ author to maintain credit. Clones are "copies" of repositories,
 whether they are local or remote. Branches are variations of files
 from the orginal that have no effect on the orginal. You can chose
 to merge the branch with the original later. Each has there own uses.
+
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+If you're about to go offline for a while or something similar, you
+will be able to have the remote's history with you while you work
+further.
