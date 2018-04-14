@@ -40,3 +40,13 @@ same with their tasks without interfering with the overall code.
 I guess not having to know git bash would be easier, but everything
 else would be more difficult, like finding changes and mistakes, as
 well as resoring to old, working versions of code.
+
+
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+I would want to make changes in a separate branch when I'm changing
+something that will cause the overall meaning to change or code to
+behave differently. You can make big changes without effecting the way
+the code runs, and eventually you can merge it when it works with the 
+master branch. Working directly on master can just be quicker.
