@@ -29,3 +29,14 @@ remote stored locally?
 If you're about to go offline for a while or something similar, you
 will be able to have the remote's history with you while you work
 further.
+
+
+How would you collaborate without using Git or GitHub? What would
+be easier, and what would be harder?
+
+I would probably just send code to the people I'm working with
+when I've completed my task. Hopefully, they will have done the
+same with their tasks without interfering with the overall code.
+I guess not having to know git bash would be easier, but everything
+else would be more difficult, like finding changes and mistakes, as
+well as resoring to old, working versions of code.
